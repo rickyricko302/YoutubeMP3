@@ -1,5 +1,5 @@
 # YoutubeMP3
-Sebuah aplikasi mobile untuk mendownload lagu dari youtube.
+Sebuah aplikasi mobile untuk mendownload lagu dari youtube dengan berbagai kualitas.
 
 ## Tampilan UI
 ![alt text](https://github.com/rickyricko302/YoutubeMP3/blob/main/demo.jpg?raw=true)
